@@ -1,0 +1,11 @@
+¿cual es ls super clase?
+ la super clase es la clase persona.
+
+¿cuantas clasese heredan de la clase persona ?
+ la case doctor y paciente heredan de la clase persona.
+
+¿que metodos tiene en comun las calses dotor, paciente y cita?
+ cancelar(), modificar(), consultar() y solicitar().
+
+¿que clase hereda de la clase doctor que hereda de la clase persona?
+ la clase cita hereda de la clase doctor. 
